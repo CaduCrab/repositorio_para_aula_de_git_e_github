@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Alteraçao final talvez.
+=======
+Nova alteraçao\
+Alteraçao do sandbox
+nova alteraçao hahah
+nova linha
+>>>>>>> fba8b1d9812744b70a67418471d76f57e8d5aa0d
